@@ -7,8 +7,6 @@
 
 import Foundation
 
-import Foundation
-
 class NotificationContent: Identifiable {
     let id = UUID()
     var title: String?
